@@ -81,28 +81,24 @@ void loop()
 }
 ```
 
+### Circuit:
+![output](https://github.com/Sucharithachowdary/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/ex03%201.png?raw=true)
 
+
+
+### serial monitor:
+![output](https://github.com/Sucharithachowdary/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/ex03.png?raw=true)
 
 
 
 
 ### Distance vs measurement table 
+![output](https://github.com/Sucharithachowdary/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/exp%203%20table.jpeg?raw=true)
 
 			
- 
-			
-			
-			
-
-![image](https://user-images.githubusercontent.com/36288975/190135379-52ebacd5-ccd5-460f-a4cd-4d0ad1d9b179.png)
-
-			
-			
-			
-			
-			
-			Average error = sum/ number of readings 
- 
+### Average error = sum/ number of readings 
+                                      = 3.4/5
+				      =0.68
 
 
 
@@ -111,7 +107,8 @@ void loop()
 
 
 
-### RESULTS
+### RESULTS:
+thus,the distance value is measured in cm using ultrasonic sensor.
 
 
 
