@@ -81,12 +81,12 @@ void loop()
 }
 ```
 
-### Circuit:
+### serial monitor:
 ![output](https://github.com/Sucharithachowdary/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/ex03%201.png?raw=true)
 
 
 
-### serial monitor:
+### circuit:
 ![output](https://github.com/Sucharithachowdary/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/ex03.png?raw=true)
 
 
